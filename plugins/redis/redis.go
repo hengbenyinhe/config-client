@@ -5,8 +5,8 @@ import (
 	"sync"
 
 	r "github.com/go-redis/redis"
-	"book/basic"
-	"book/basic/config"
+	"github.com/hengbenyinhe/config-client/basic"
+	"github.com/hengbenyinhe/config-client/basic/config"
 	"github.com/micro/go-micro/util/log"
 )
 

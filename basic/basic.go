@@ -1,7 +1,7 @@
 package basic
 
 import (
-	"book/basic/config"
+	"github.com/hengbenyinhe/config-client/basic/config"
 )
 
 var (

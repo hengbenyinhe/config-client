@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 
-	"book/basic/config"
+	"github.com/hengbenyinhe/config-client/basic/config"
 	"github.com/micro/go-micro/util/log"
 )
 

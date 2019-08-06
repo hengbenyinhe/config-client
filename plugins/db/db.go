@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"book/basic"
+	"github.com/hengbenyinhe/config-client/basic"
 	"github.com/micro/go-micro/util/log"
 )
 
